@@ -1,5 +1,5 @@
 #Inventory Management System
-
+#Use stock.txt for storing the values
 #Dictionaries
 unit_price={}
 description={}
